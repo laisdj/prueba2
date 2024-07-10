@@ -1,0 +1,80 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#FFFFFF;
+  background-color: #1e1a13;
+  
+}
+
+h1{
+    background-color: #000000;
+    padding: 30px;
+    
+}
+
+header img {
+    
+    width:100%;
+    
+
+}
+
+
+
+#caracteristicas {
+
+   text-align: center;
+   padding: 20px;
+}
+
+#nav{
+    text-align: center;
+}
+
+#descripcion p, img {
+    
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#caracteristicas, div {
+
+    display: inline-block;
+    text-align: center;
+    margin-left: 20%;
+
+}
+
+#caracteristicas h2 {
+    text-align: center;
+    font-size:xx-large;
+}
+
+#galeria img {
+    display: inline-block;
+    width:30%;
+    padding: 10px;
+
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #000000;
+    font-size: larger;
+}
+
+h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: xx-large;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+}
